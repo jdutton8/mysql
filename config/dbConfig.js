@@ -9,7 +9,7 @@ function buildConnectionOptions() {
         password: DB_PASSWORD,
         database: "employee_db",
     };
-    console.log('connected to the employee_db.');
+    
 }
 
 
