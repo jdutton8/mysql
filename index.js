@@ -1,7 +1,7 @@
 require('dotenv').config();
 const {
     buildConnectionOptions, createConnection,
-} = require("./config/dbConfig");
+} = require("./config/connection");
 
 const inquirer = require('inquirer');
 
